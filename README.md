@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/vcodedavef/MyInitProj/_apis/build/status/gmdavef.pipelines-java?branchName=master)](https://dev.azure.com/vcodedavef/MyInitProj/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
